@@ -292,7 +292,7 @@
   "channel":{
     "type": ["wechat_mp"],
       "wechat_mp": {
-      "token": "dociciadawanggo",
+      "token": "donciciwangada",
       "port": "80"
     },
     "wechat_com": {
