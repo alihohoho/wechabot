@@ -291,20 +291,7 @@
        },
   "channel":{
     "type": ["wechat_mp"],
-    "single_chat_prefix": ["chat", "@chat"],
-    "single_chat_reply_prefix": "[bot] ",
-    "group_chat_prefix": ["@chat"],
-    "group_name_white_list": ["ChatGPT测试群"],
-    "image_create_prefix": ["画", "看", "找一张"],
-
-    "terminal": {
-    },
-
-    "wechat": {
-      "receive_qrcode_api": ""
-    },
-
-    "wechat_mp": {
+      "wechat_mp": {
       "token": "dociciadawanggo",
       "port": "80"
     },
