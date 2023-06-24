@@ -6,7 +6,7 @@
   
       "api_base": "",
       "model": "gpt-3.5-turbo",
-      "proxy": "http://127.0.0.1:10808",
+      "proxy": "",
       "conversation_max_tokens": 1000,
       "temperature":0.75,
       "top_p":0.7,
