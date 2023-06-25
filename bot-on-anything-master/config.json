@@ -7,20 +7,7 @@
       "cookies":[
     {
         "domain": ".bing.com",
-        "expirationDate": 1719233029.89357,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "SnrOvr",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "X=rebateson"
-    },
-    {
-        "domain": ".bing.com",
-        "expirationDate": 1722170617.689731,
+        "expirationDate": 1722216997.98144,
         "hostOnly": false,
         "httpOnly": false,
         "name": "SRCHUSR",
@@ -29,24 +16,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "DOB=20230624&T=1687610613000"
+        "value": "DOB=20230625"
     },
     {
         "domain": ".bing.com",
-        "expirationDate": 1687697040.172924,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "GC",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "TQyNXXkOSeIlmuqMunkVaxmBF5UGiScNQUpwEMRqzCu9ys1IPQHLeIW2XTd5YPADAqxqY2ZN7jJinivt4aeF5Q"
-    },
-    {
-        "domain": ".bing.com",
-        "expirationDate": 1687616610.783639,
+        "expirationDate": 1687703802.396694,
         "hostOnly": false,
         "httpOnly": true,
         "name": "SUID",
@@ -59,7 +33,7 @@
     },
     {
         "domain": ".bing.com",
-        "expirationDate": 1722170633.297676,
+        "expirationDate": 1722226128.318994,
         "hostOnly": false,
         "httpOnly": false,
         "name": "SRCHHPGUSR",
@@ -68,11 +42,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "SRCHLANG=zh-Hans&DM=0&WTS=63823166600&PV=14.0.0&BRW=M&BRH=S&CW=1280&CH=681&SCW=1265&SCH=3499&DPR=2.0&UTC=480&PRVCW=1280&PRVCH=681&HV=1687610631&EXLTT=2&cdxtone=Creative&cdxtoneopts=h3imaginative,clgalileo,gencontentv3"
+        "value": "SRCHLANG=zh-Hans&IG=444647B2BCC04378A804DF4C0187F525&PV=14.0.0"
     },
     {
         "domain": ".bing.com",
-        "expirationDate": 1722169438.541354,
+        "expirationDate": 1722224201.103621,
         "hostOnly": false,
         "httpOnly": false,
         "name": "ANON",
@@ -93,23 +67,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "SID=382BA27891496CE21A90B14290676D1D&OCID=MY0291&R=318&RB=318&GB=0&RG=0&RP=318"
+        "value": "SID=25D476D5BD8268F603E965EEBC1669DE"
     },
     {
         "domain": ".bing.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "ipv6",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "hit=1687614232914&t=4"
-    },
-    {
-        "domain": ".bing.com",
-        "expirationDate": 1688819038.541321,
+        "expirationDate": 1688873802.103554,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_U",
@@ -118,11 +80,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "17n0OqMEqrPYwR_ECxZqTW3swPHBwETmj_K31YzabNkTLNed8s1CPZSRV-IipWIqa3HHFBcVsrK8pWsOdbrjziHtW_u8ANj15-S-g2EkwMNLZstvJOm4PCRATT19ORmUoq3XzMWwqYPC6FQ6GPO8dxkhaRgiA2Lzkq95PmrRXKYyUqgS5IZxQrSBchYvoaGDodnLhUvJZ5MPfGYfm432geY7oiw0dVkb9szbyy4hSJLQ"
+        "value": "1Tkc7q7hUNCJPQ0jpMa-1kXfiIRDjoDVqo1fX1sN0VCJEAsbQP67g025Jjhaux3xqc6OXlSCj1bxkeT9oeBxHL-FqXi-RE3waBq-qWA9SudScXTK7ByB-81rzFKWUnF9jKegU3Cf7EXPAe6vLirnLUooNigm4PIrmucVt2E5y85EVQjV18b_5QENdIKANLeIFqbHQ7XEoqTr9BOH3IF8_8Mf3u4_OGsn34k_XIavONcw"
     },
     {
         "domain": ".bing.com",
-        "expirationDate": 1722129801.067474,
+        "expirationDate": 1722216997.981414,
         "hostOnly": false,
         "httpOnly": false,
         "name": "SRCHD",
@@ -131,11 +93,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "AF=SHORUN"
+        "value": "AF=NOFORM"
     },
     {
         "domain": ".bing.com",
-        "expirationDate": 1721265801.067415,
+        "expirationDate": 1721352997.981395,
         "hostOnly": false,
         "httpOnly": true,
         "name": "_EDGE_V",
@@ -148,19 +110,6 @@
     },
     {
         "domain": ".bing.com",
-        "expirationDate": 1719233029.893521,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "_RwBf",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": false,
-        "storeId": null,
-        "value": "r=1&mta=0&rc=318&rb=318&gb=0&rg=0&pc=318&mtu=0&rbb=0.0&g=0&cid=&clo=0&v=3&l=2023-06-24T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&o=0&p=BINGCOPILOTWAITLIST&c=MY00IA&t=4254&s=2023-03-29T13:43:29.4735822+00:00&ts=2023-06-24T12:43:48.7475228+00:00&rwred=0&wls=2&lka=0&lkt=0&TH=&dci=0&e=V7nu77V_QsqHWHpK5mQwM6_Sa3BOadzmXbXe8R9-QX7v56J9FCOs2Ayz3D8LcG45jLhHqh0hTSikbbyB5onapA"
-    },
-    {
-        "domain": ".bing.com",
         "hostOnly": false,
         "httpOnly": true,
         "name": "_EDGE_S",
@@ -169,11 +118,11 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "F=1&SID=382BA27891496CE21A90B14290676D1D"
+        "value": "F=1&SID=25D476D5BD8268F603E965EEBC1669DE"
     },
     {
         "domain": "www.bing.com",
-        "expirationDate": 1721306640.173028,
+        "expirationDate": 1721362129.318881,
         "hostOnly": true,
         "httpOnly": true,
         "name": "MUIDB",
@@ -182,11 +131,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "2566071E118366633784142410AD671D"
+        "value": "2DF79A78D0CC655125B38943D15864E9"
     },
     {
         "domain": ".bing.com",
-        "expirationDate": 1722170631.076455,
+        "expirationDate": 1722216997.981405,
         "hostOnly": false,
         "httpOnly": true,
         "name": "USRLOC",
@@ -195,11 +144,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "HS=1&ELOC=LAT=29.710975646972656|LON=118.31089782714844|N=%E5%B1%AF%E6%BA%AA%E5%8C%BA%EF%BC%8C%E5%AE%89%E5%BE%BD%E7%9C%81|ELT=2|&DLOC=LAT=29.710976|LON=118.310898|A=30|N=HuangshanTunxi|C=|S=|TS=230624124350|ETS=230624125350|"
+        "value": "HS=1"
     },
     {
         "domain": ".bing.com",
-        "expirationDate": 1721265801.067298,
+        "expirationDate": 1721352997.981355,
         "hostOnly": false,
         "httpOnly": false,
         "name": "MUID",
@@ -208,23 +157,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "2566071E118366633784142410AD671D"
+        "value": "2DF79A78D0CC655125B38943D15864E9"
     },
     {
         "domain": ".bing.com",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "SNRHOP",
-        "path": "/",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "I=&TS="
-    },
-    {
-        "domain": ".bing.com",
-        "expirationDate": 1722129801.067498,
+        "expirationDate": 1722216997.98143,
         "hostOnly": false,
         "httpOnly": false,
         "name": "SRCHUID",
@@ -233,7 +170,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "V=2&GUID=D9FB2458AE9D4384A4F1928D1B226E42&dmnchg=1"
+        "value": "V=2&GUID=18992114EF934C759DCBE53EED9CC28C&dmnchg=1"
     },
     {
         "domain": ".bing.com",
